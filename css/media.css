@@ -1,0 +1,142 @@
+@media only screen and (max-width: 600px) {
+    html {
+      font-size: 5px !important;
+    }
+  
+    .header-content {
+      width: 100%;
+    }
+  
+    .header-box img {
+      width: 10px;
+    }
+  
+    .header-img {
+      width: 141px;
+      height: 171px;
+    }
+  
+    .main-text-center {
+      min-width: 225px;
+    }
+  
+    .main-text-center p,
+    h3 {
+      line-height: 14px;
+    }
+  
+    .lala {
+      display: flex;
+      flex-direction: column;
+    }
+  
+    .header-imgbox {
+      width: 100% !important;
+      display: flex;
+      justify-content: right;
+      margin-top: 5%;
+    }
+  
+    h1 {
+      font-size: 37px !important;
+      width: 300px;
+    }
+  
+    .main-text {
+      display: flex;
+      justify-content: left;
+      width: 100% !important;
+    }
+  
+    .img-main-no {
+      display: none;
+    }
+  
+    .media-colum {
+      flex-direction: column;
+      display: flex;
+    }
+  
+    .main-text-kurs {
+      width: 100% !important;
+    }
+  
+    .main-img {
+      width: 100% !important;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  
+    .main-img img {
+      width: 170.55px;
+      height: 160.29px;
+    }
+  
+    .main-text-kurs p {
+      line-height: 18px;
+      font-size: 12px;
+    }
+  
+    .main-head {
+      font-size: 26px;
+      line-height: 26px;
+    }
+  
+    .main-box h2 {
+      font-size: 12px;
+      line-height: 16px;
+    }
+  
+    .main-box p {
+      font-size: 10px;
+      line-height: 13px;
+    }
+  
+    .main-foot {
+      width: 75% !important;
+      display: flex;
+      flex-wrap: wrap;
+      margin-top: 50px;
+    }
+  
+    .main-box {
+      width: 50% !important;
+    }
+  
+    .mg-t {
+      margin-top: 20px;
+    }
+    .about-head { 
+      font-size: 26px;
+      line-height: 26px;
+      
+  }
+  .about-box h3 { 
+    
+    font-size: 12px;
+    line-height: 16px;
+    
+    }
+    .about-box p { 
+      font-size: 10px;
+      line-height: 13px;
+    }
+    .about-header { 
+      width: 80%!important;
+    }
+    .about-colum { 
+      display: flex;
+      flex-direction: column;
+    }
+    .about-box { 
+      width: 40% !important;
+    } 
+    .about-list { 
+      width: 100% !important;
+    }
+    .list-about li { 
+      font-size: 12px;
+      line-height: 18px;
+  
+    }
